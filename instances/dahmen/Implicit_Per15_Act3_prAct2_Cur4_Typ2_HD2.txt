@@ -1,0 +1,15 @@
+period 15
+horizonLength 96
+nbrDays 1
+nbrTypEmployees 1
+prAct 2
+prCur 4
+typParam 2
+HD 2
+nbrShiftTypes 2
+ShtTyp 0 minPre 4 maxPre 16 breakLength 8 minPost 4 maxPost 16 minLength 32 maxLength 40 nbrStarts 48 Starts 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94
+ShtTyp 1 minPre 4 maxPre 16 breakLength 4 minPost 4 maxPost 16 minLength 24 maxLength 28 nbrStarts 48 Starts 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80 82 84 86 88 90 92 94
+nbrActs 3
+Act 0 minLength 4 maxLength 8 Curve 1 5 1 4 5 6 5 8 7 8 7 11 8 11 8 11 6 7 6 10 0 1 0 4 4 8 4 8 6 7 6 9 13 16 13 15 14 16 14 15 7 9 7 9 6 9 6 8 5 8 5 6 0 2 0 3 6 9 6 7 10 11 10 12 6 9 6 8 12 16 12 15 4 5 4 5 3 4 3 7 3 5 3 4 5 9 5 8 2 5 2 4 0 2 0 3
+Act 1 minLength 4 maxLength 12 Curve 5 8 5 6 7 11 7 11 12 16 12 16 6 7 6 9 3 7 3 5 0 2 0 2 2 3 2 5 12 13 12 15 10 13 10 13 13 17 13 16 8 9 8 12 12 14 12 14 4 7 4 5 0 3 0 4 1 4 1 4 10 11 10 14 12 13 12 15 9 11 9 12 5 7 5 9 4 5 4 8 4 5 4 7 8 9 8 12 2 6 2 4 0 3 0 4
+Act 2 minLength 8 maxLength 16 Curve 1 5 1 5 3 7 3 6 5 8 5 7 10 11 10 11 8 11 8 9 0 3 0 4 1 5 1 2 6 8 6 9 12 13 12 13 18 19 18 21 14 16 14 17 11 14 11 15 9 12 9 11 0 3 0 1 4 6 4 6 9 13 9 11 11 12 11 13 8 9 8 11 4 6 4 7 10 11 10 14 10 11 10 14 4 6 4 6 0 4 0 4 0 4 0 1

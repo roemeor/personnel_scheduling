@@ -1,0 +1,11 @@
+{
+  "personnel_scheduling": {
+    "Overview": "/",
+    "Data Structures for Personnel Scheduling": "data_stuctures.html",
+    "Reporting and Visualization": "reporting.html",
+    "demassey-checkpoint": "demassey-checkpoint.html",
+    "Code for the Dahmen instances": "dahmen.html",
+    "Personnel Scheduling Library": "index-checkpoint.html",
+    "demassey": "demassey.html"
+  }
+}

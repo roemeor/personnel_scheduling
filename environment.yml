@@ -1,0 +1,19 @@
+name: personnel_scheduling
+channels:
+- fastai
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- pip
+- ipykernel
+- numpy
+- openpyxl
+- matplotlib
+- networkx
+- pandas
+- pulp
+- scipy
+- python-box
+- pip:
+  - nbdev

@@ -12,6 +12,10 @@ I would recommend creating an own conda environment (see https://docs.conda.io/p
 
 After having done this, you can start Jupyter Lab from your original `base` environment, and choose the `personnel_scheduling` kernel that has all needed packages installed.
 
+Please note: It is helpful to have `nb_conda_kernels` installed in the `base` environment.
+
+To install this package, type `
+
 
 ## General Project Structure
 
@@ -21,7 +25,7 @@ Currently, two basic notebooks (00_datastructures and 00_reporting) and two note
 
 
 ## Workflow for development and experimentation
-When you have changed something in one of the non-experiment-notebooks, make sure that you save the notebook and execute the function `notebook2script()` (which you already find in the last cells of each notebook and at the beginning of the experimentation notebook).
+When you have changed something in one of the basic notebooks, make sure that you save the notebook and execute the function `notebook2script()` (which you already find in the last cells of each notebook and at the beginning of the experimentation notebook).
 
 After that, to make sure that everything is clean, it is recommended to shutdown and restart the current kernel.
 
